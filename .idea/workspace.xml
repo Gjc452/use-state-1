@@ -15,6 +15,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -27,10 +33,17 @@
       <option name="presentableId" value="Default" />
       <updated>1610971919725</updated>
       <workItem from="1610971921129" duration="58000" />
+      <workItem from="1610972011758" duration="1844000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1148" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610972231421">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1148" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610972231421" />
   </component>
 </project>
